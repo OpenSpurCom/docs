@@ -1,5 +1,12 @@
 <!-- docs/_sidebar.md -->
 
 * [The first question](/)
-* [Introduction](introduction.md)
 * [Litepaper](litepaper.md)
+* [Implementation](implementation.md)
+* [What we're building]()
+* [What we could be building]()
+* [User manual]()
+* [Investors]()
+* [Problem solvers]()
+* [Entrepreneurs]()
+* [Contributing]()

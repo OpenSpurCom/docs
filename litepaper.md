@@ -1,36 +1,52 @@
-# Freedom. Meaning. Community.
+# Introduction  
 
-Atoms form molecules.  
-Molecules form proteins.  
-Proteins, cells.  
-Cells, organs.  
-Organs, individuals.  
-Individuals form societies.  
-  
-Complex systems exhibit properties or behaviors that arise from the interactions of their simpler components. The rules of interaction are simple and are applied recursively. If the rules would not be simple, the constituents would not be composable. Interaction between components of the system would be difficult and therefore, rare.
+This paper argues that being fair, transparent, borderless, and permissionless sets the optimal prerequisites for innovation.
 
-It is easy to build when the constituent is carbon - it is close to impossible to build complex structures using helium. Water interacts with a wide range of other molecules. Noble gases don’t. Hub proteins do interact. Intracellular Transport Proteins seldom do by design. As the complexity of the emergent systems increases, it gets harder and harder to count the possible states. 
+1. Nature sets the right conditions for growth:  
+   
+   a. Simple rules that maximize composability.  
+   b. Reuse of solutions (often through recursion).  
+   c. Energy minimization.  
 
-The rules that govern atoms, molecules, proteins, cells, and organs as well as the interactions between them are simple, known and unbreakable. They also exhibit high emergence. 
-The fabric of reality cannot be bended, tempered with or fooled.
+2. Innovation is:  
 
-However, the rules that govern individuals, families, companies, countries and societies are complex, very often opaque and are often bended and tempered with. 
+   a. A chain of simple "aha" moments with good explanations that are hard to vary  
+   b. Built on previous "aha" moments (reuse, recursion), so that  
+   c. Energy use is minimized for adopters.  
 
-As they have evolved together, molecules, proteins and cells as well as organs are part of a closed system and are perfectly coordinated. Feedback loops flow continuously and endlessly in perfect sync.
+3. OpenSpur is a self-evolving protocol (using the protocol itself) that is:  
 
-Although we live out of each others’ happiness - societies lack coordination for the most part. Feedback loops are discrete - investors commit funds up front, voters express their will every few years in most cases. There is no syncronization mechanism to speak of.
+   a. Simple (one rule applied recursively to evaluate each contribution).  
+   b. Reuses existing solutions and makes them easy to discover and plug in.  
+   c. Minimizes the energy required to build(proper skill to task distribution) and adopt innovation.  
 
-OpenSpur is a fair, transparent, permisionless and borderless protocol that aims to enable people to associate and create with minimal friction. 
-As far as the author can discern, the essence of creation lies in
-Freedom. Simple rules. Optimal energy consumption through instant feedback. 
-Applied recursively.  
+OpenSpur is a collection of OpenSpur organizations that use the protocol to establish:
 
-OpenSpur is the   
-a. communication highway so innovators working towards similar goals can find each other  
+a. a communication highway so innovators working towards similar goals can find each other  
 b. the trust layer so that they can work together  
 c. the fair pay protocol that encourages full transparency and commitment from all actors.  
 
 # Communication Highway  
+
+We will use simple combinatorics to explain why   
+
+a. individuals that freely associate around problems to be solved have better work satisfaction and monetary outcomes and   
+b. why problems that allow and chain contributions have better chances of being solved   
+
+This will be the motivation behind building a system that    
+a. can automatically monitor novel problems to be solved on behalf of problem solvers.  
+b. is open by default to contributors and chaining existing solutions  
+
+Chaining solutions and accepting contributions is one side of the coin as open source already does this.
+Accelerating the rate at which solutions are built is enabled by the fairness and fair pay protocol.
+
+## Impact of Restricting Collaboration on Individual Output  
+
+Arrow’s Impossibility Theorem, while originally focused on social choice theory, reveals an important insight applicable to individual and organizational contexts: when restrictions are placed on individuals’ ability to choose freely from among their preferences, the resulting system can fail to maximize fairness, representation, and overall satisfaction.  
+
+In organizations, this principle translates into the tasks and roles individuals are allowed to take on. If individuals are locked into narrow silos—where their skills and interests are not fully utilized or aligned with their **ikigai** (a Japanese concept meaning "reason for being")—their capacity for contribution and fulfillment is diminished.  
+
+In conclusion, simply OPENING UP a global talent marketplace we can theoretically achieve an economic system in perfect Nash equilibrium.
 
 ## Why is it important to open up organizations?  
 
@@ -60,14 +76,6 @@ The same logic applies to professionals. Locking **10** professionals in one org
 
 Instead of generating an exponential number of possibilities, the system becomes fragmented, with far fewer opportunities for innovation and emergence. This restriction minimizes the collective potential, reduces systemic adaptability, and stifles the emergence of groundbreaking solutions.  
 
-## Impact of Restricting Collaboration on Individual Output  
-
-Arrow’s Impossibility Theorem, while originally focused on social choice theory, reveals an important insight applicable to individual and organizational contexts: when restrictions are placed on individuals’ ability to choose freely from among their preferences, the resulting system can fail to maximize fairness, representation, and overall satisfaction.  
-
-In organizations, this principle translates into the tasks and roles individuals are allowed to take on. If individuals are locked into narrow silos—where their skills and interests are not fully utilized or aligned with their **ikigai** (a Japanese concept meaning "reason for being")—their capacity for contribution and fulfillment is diminished.  
-
-In conclusion, simply OPENING UP a global talent marketplace we can theoretically achieve an economic system in perfect Nash equilibrium.
-
 # Trust layer
 
 We believe this to be self-evident: it's impossible to share knowledge, produce novel intellectual property or contribute source-code, work, etc with no trust.  
@@ -79,3 +87,7 @@ We regularly file patent requests for all work produced on behalf of our contrib
 Negociations between individuals(who works on what), individuals and organizations(what monthly pay should i get) add friction. Specifically, treating people like a statistic is an invitation to under-perform. Motivation has 2 sides - the whip and the carrot - but in modern companies the carrot is missing, or is at any rate not proportional(let alone fair) with the contribution of the employee.
 
 We open up a marketplace of tasks and their associated fair pay. It's up to the contributor to train an A.I. that hunts for suitable tasks, solve them, and get either the cash or the shares in the system being built. [We explore the exact mechanics by which this is accomplished in the Protocol mechanics section].
+
+# Conclusions
+
+We've outlined and proposed the axioms of an efficient global brain where all participants are stakeholders. The methods by which this is achieved has been intentionally left out and is considered part of the implementation mechanics that may change independently of the evolution of this document.

@@ -4,7 +4,7 @@
    
    a. Simple rules that maximize composability.  
    b. Reuse of solutions (often through recursion).  
-   c. Energy minimization (set bounty on what it maximizes - the explanation will unlock better protocol mechanics).  
+   c. Energy minimization.  
 
 2. Innovation is:  
 
@@ -14,8 +14,8 @@
 
 3. OpenSpur is a self-evolving protocol (using the protocol itself) that is:  
 
-   a. Simple (one rule applied recursively).  
-   b. Reuses existing solutions.  
-   c. Accepts and fairly remunerates every meaningful contribution, minimizing the energy required to build and adopt innovation.  
+   a. Simple (one rule applied recursively to evaluate each contribution).  
+   b. Reuses existing solutions and makes them easy to discover and plug in.  
+   c. Minimizes the energy required to build(proper skill to task distribution) and adopt innovation.  
 
 We believe that being fair, transparent, borderless, and permissionless sets the optimal prerequisites for maximum economic growth.
